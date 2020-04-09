@@ -17,3 +17,5 @@ Deep Learning has brought us tremendous achievements in the field of Computer Vi
 - [https://adversarial-ml-tutorial.org/](https://adversarial-ml-tutorial.org/)
 - Chapter 10 (Adversarial examples), [GANs in Action](https://www.manning.com/books/gans-in-action)
 - [Introduction to Adversarial Machine Learning](https://blog.floydhub.com/introduction-to-adversarial-machine-learning/)
+- [Adversarial example using FGSM](https://www.tensorflow.org/tutorials/generative/adversarial_fgsm)
+- [Adversarial regularization for image classification](https://www.tensorflow.org/neural_structured_learning/tutorials/adversarial_keras_cnn_mnist)
