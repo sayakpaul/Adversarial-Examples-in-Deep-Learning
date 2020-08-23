@@ -8,6 +8,8 @@ Deep Learning has brought us tremendous achievements in the field of Computer Vi
 - `Image_Adversaries_Basics.ipynb`: Shows how to create adversaries that can fool a ResNet50 model pre-trained on ImageNet. Includes both vanilla and targeted attacks. 
 - `Adversarial_Training_NSL.ipynb`: Shows how to train adversarially robust image classifiers using [`Neural Structured Learning`](https://www.tensorflow.org/neural_structured_learning). 
 - `GANs_w_Adversaries.ipynb`: Shows how to incorporate GANs (plain old DCGAN) to tackle adversarial situations. 
+- `Optimizer_Susceptibility.ipynb`: Studies the susceptibility of different optimizers against simple attacks.
+- `Optimizer_Susceptibility_Targeted_Attacks.ipynb`: Studies the susceptibility of different optimizers against targeted attacks.
 
 **Note**: The materials are strictly for learning purpose and should not be considered for production systems.
 
