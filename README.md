@@ -2,7 +2,7 @@
 
 Deep Learning has brought us tremendous achievements in the field of Computer Vision. In spite of the impeccable success, modern Deep Learning systems are still prone to adversaries. Let's talk in terms of Computer Vision. Consider an image of a polar bear and an instance of it (X1). A Deep Learning-based image classifier is able to successfully X1 as a polar bear. Now consider another instance of a polar bear X2 which is a slightly perturbed version of X1. To the human eyes, it would still be a polar bear but for that same image classifier, it would be an ant. These perturbations are referred to as image adversaries.
 
-![](https://i.ibb.co/Wkg8CSX/download.png)
+<div align="center"><img src="https://i.ibb.co/Wkg8CSX/download.png"></img></div>
 
 This repository contains code for a short crash-course related adversarial examples in deep learning. The crash course would include introduction to adversarial examples, training models that are adversarial-aware, situations where adversarial-aware models could fail, and so on.   
 
