@@ -9,7 +9,7 @@ This repository contains code for a short crash-course related adversarial examp
 The crash course would be presented in form of [Weights and Biases reports](https://docs.wandb.com/reports). The first report in this line is now up - 
 - [An Introduction to Adversarial Examples in Deep Learning](https://app.wandb.ai/authors/adv-dl/reports/An-Introduction-to-Adversarial-Examples-in-Deep-Learning--VmlldzoyMTQwODM)
 
-## Contents:
+## Contents (to be updated):
 - `Image_Adversaries_Basics.ipynb`: Shows how to create adversaries that can fool a ResNet50 model pre-trained on ImageNet. Includes both vanilla and targeted attacks. 
 - `Adversarial_Training_NSL.ipynb`: Shows how to train adversarially robust image classifiers using [`Neural Structured Learning`](https://www.tensorflow.org/neural_structured_learning). 
 - `GANs_w_Adversaries.ipynb`: Shows how to incorporate GANs (plain old DCGAN) to tackle adversarial situations. 
